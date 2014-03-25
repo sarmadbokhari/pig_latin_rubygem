@@ -1,6 +1,6 @@
 # PigLatin
 
-A PigLatin ruby gem
+A Pig Latin ruby gem, uses regex to check if a word given to pig_latinize method follows Pig Latin rules. See http://en.wikipedia.org/wiki/Pig_Latin for Pig Latin rules.
 
 ## Installation
 
