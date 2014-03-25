@@ -1,6 +1,6 @@
 # PigLatin
 
-TODO: Write a gem description
+A PigLatin ruby gem
 
 ## Installation
 
