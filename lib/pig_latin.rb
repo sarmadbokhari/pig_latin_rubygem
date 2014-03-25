@@ -1,5 +1,4 @@
 require "pig_latin/version"
-require "pry-debugger"
 
 module PigLatin
 
